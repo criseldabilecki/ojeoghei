@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eolaigaira.gconst.org/sitemap.xml
